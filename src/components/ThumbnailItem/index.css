@@ -1,0 +1,10 @@
+/* Write your code here. */
+
+.image2 {
+  margin: 5px;
+  cursor: pointer;
+}
+
+.imgBlur {
+  opacity: 0.5;
+}

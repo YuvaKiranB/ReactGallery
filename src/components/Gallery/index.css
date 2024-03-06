@@ -1,0 +1,47 @@
+/* Write your code here. */
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.sub {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 85%;
+}
+
+.image {
+  width: 85%;
+}
+
+.h1 {
+  font-size: 22px;
+  font-family: roboto;
+}
+
+.p1 {
+  font-size: 14px;
+  font-family: roboto;
+  color: #64748b;
+}
+
+.ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+
+.body1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
